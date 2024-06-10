@@ -9,7 +9,6 @@ const Login = () => {
           <label htmlFor="email">Email:</label>
           <input
             type="email"
-            id="email"
             value=""
             placeholder="Enter Your Email"
           />
